@@ -1,0 +1,10 @@
+1) SELECT addressLine1 as Endereço, addressLine2 as Endereço2, city as cidade, `state` as estado, country as país, officeCode FROM offices
+2) SELECT firstName as Nome, lastName as Sobrenome, jobTitle as Cargo FROM employees WHERE officeCode = 3
+3) SELECT T1.firstName, T1.lastName, T1.jobTitle, T2.city FROM employees T1 INNER JOIN offices T2 ON T1.officeCode = T2.officeCode WHERE T2.city = "NYC"
+4) SELECT productName,buyPrice FROM products WHERE buyPrice BETWEEN 90 AND 100
+4) SELECT productName,buyPrice FROM products WHERE buyPrice >= 90 AND buyPrice <= 100
+5) SELECT productName,buyPrice FROM products WHERE buyPrice < 20 OR buyPrice > 100
+6) SELECT CONCAT(contactFirstName," ", contactLastName) as Name,country, salesRepEmployeeNumber as "Codigo Rep" FROM customers WHERE salesrepemployeenumber IS NOT NULL
+7) SELECT T1.customerName as "Nome do Cliente", T1.country as País, CONCAT(T2.firstName," ",T2.lastName) as Consultor, T1.salesRepEmployeeNumber as "Matricula do Consultor" FROM customers T1 INNER JOIN employees T2 ON T1.salesRepEmployeeNumber = T2.employeeNumber WHERE T1.salesRepEmployeeNumber IS NOT NULL
+8) SELECT CONCAT(firstName," ",lastName) as Nome FROM employees UNION SELECT CONCAT(contactFirstName," ",contactLastName) FROM customers ORDER BY Nome DESC
+9) SELECT CONCAT(firstName," ",lastName) as Nome, "Empregado" as "Tabela de Origem" FROM employees UNION SELECT CONCAT(contactFirstName," ",contactLastName), "Cliente" FROM customers ORDER BY Nome
