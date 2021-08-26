@@ -1,0 +1,10 @@
+1) SELECT COUNT(*) FROM movies
+2) SELECT * FROM movies WHERE name LIKE "%Central%"
+3) SELECT * FROM movies ORDER BY rank DESC
+4) SELECT name,`year`,rank FROM movies WHERE rank IS NOT NULL ORDER BY `year` ASC
+5) SELECT T1.name,T1.`year`,T2.`role`,T3.first_name,T3.last_name FROM movies T1 INNER JOIN roles T2 ON T1.id = T2.movie_id INNER JOIN actors T3 ON T3.id = T2.actor_id WHERE T3.first_name = "Fernanda" AND T3.last_name = "Montenegro"
+6) SELECT T1.name as "Nome do Programa",T1.`year` as "Ano de Lançamento",T2.`role` as "Papel",T3.first_name as "Nome",T3.last_name as "Sobrenome",T4.genre as "Genero" from movies T1 INNER JOIN roles T2 ON T1.id = T2.movie_id INNER JOIN actors T3 ON T3.id = T2.actor_id INNER JOIN movies_genres T4 ON T1.id = T4.movie_id WHERE T3.first_name = "Fernanda" AND T3.last_name = "Montenegro"
+7) SELECT T1.name as "Nome do Programa",T1.`year` as "Ano de Lançamento",T2.`role` as "Papel",T3.first_name as "Nome",T3.last_name as "Sobrenome",T4.genre as "Genero" from movies T1 INNER JOIN roles T2 ON T1.id = T2.movie_id INNER JOIN actors T3 ON T3.id = T2.actor_id LEFT JOIN movies_genres T4 ON T1.id = T4.movie_id WHERE T3.first_name = "Fernanda" AND T3.last_name = "Montenegro"
+8) SELECT T1.name as "Nome do Programa",T1.`year` as "Ano de Lançamento",T2.`role` as "Papel",CONCAT(T3.first_name," ",T3.last_name) as "Ator/Atriz",T4.genre,CONCAT(T6.first_name," ",T6.last_name) as "Diretor(a)" FROM movies T1 INNER JOIN roles T2 ON T1.id = T2.movie_id INNER JOIN actors T3 ON T3.id = T2.actor_id INNER JOIN movies_genres T4 ON T1.id = T4.movie_id INNER JOIN movies_directors T5 ON T1.id = T5.movie_id INNER JOIN directors T6 ON T5.director_id = T6.id WHERE T3.first_name = "Fernanda" AND T3.last_name = "Montenegro"
+9) SELECT CONCAT(T3.first_name," ",T3.last_name) as "Ator/Atriz", AVG(T1.rank) as "Média" FROM movies T1 INNER JOIN roles T2 ON T1.id = T2.movie_id INNER JOIN actors T3 ON T2.actor_id = T3.id WHERE T3.first_name ="José" AND T3.last_name = "Wilker" OR T3.first_name = "Fernanda" AND T3.last_name = "Montenegro" GROUP BY 1
+10) Fernanda Montenegro 7.79
