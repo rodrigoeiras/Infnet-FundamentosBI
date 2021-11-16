@@ -1,0 +1,251 @@
+Account ID;Last Visit;Company;City_State;Latitude;Longitude
+A_36281;06/09/2001;Eli Lilly and Company;Research Triangle Park, NC;35,915;-78,786
+A_36282;19/09/2001;Eli Lilly and Company;Indianapolis, IN;39,888;-86,152
+A_36283;26/09/2001;Merck;West Point, PA;40,166;-75,308
+A_36284;12/10/2001;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36285;05/11/2001;Asian Distributors;Somerville, MA;42,531;-71,092
+A_36286;06/12/2001;Shering-Plough;Kenilworth, NJ;40,724;-74,309
+A_36287;08/01/2002;Pharmacia;Kalamazoo, MI;42,226;-85,591
+A_36288;06/02/2002;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36289;13/02/2002;Texas Biotech Corporation;Houston, TX;29,543;-95,688
+A_36290;26/03/2002;Kalypsys;LaJolla, CA;32,873;-117,221
+A_36291;11/04/2002;BP;Naperville, IL;41,763;-88,154
+A_36292;12/04/2002;MIT;Cambridge, MA;42,531;-71,092
+A_36293;22/04/2002;Tribiosys, Inc;Cambridge, MA;42,531;-71,092
+A_36294;22/05/2002;University of Arkansas Medical Center;Little Rock, AR;34,537;-91,585
+A_36295;30/05/2002;GlaxoSmithKline;Research Triangle Park, NC;35,915;-78,786
+A_36296;05/06/2002;Boehringer Ingelheim;Ridgefield, CT;41,406;-73,475
+A_36297;12/06/2002;Pharmacia;Kalamazoo, MI;42,226;-85,591
+A_36298;26/06/2002;Pfizer;Groton, CT;41,323;-72,315
+A_36299;28/06/2002;Amgen;Cambridge, MA;42,531;-71,092
+A_36300;16/07/2002;Pfizer;Groton, CT;41,323;-72,315
+A_36301;15/08/2002;Abgenix;Vancouver, BC, Canada;49,601;-123,873
+A_36302;22/08/2002;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36303;27/08/2002;Microbia;Cambridge, MA;42,531;-71,092
+A_36304;29/08/2002;FDA_Center for Toxicoinformatics;Jefferson, AR;34,537;-91,585
+A_36305;05/09/2002;Pharmacia;St. Louis, MO;38,673;-90,52
+A_36306;25/09/2002;Roche;Nutley, NJ;40,608;-74,397
+A_36307;02/10/2002;Wyeth;Cambridge, MA;42,531;-71,092
+A_36308;04/10/2002;Millennium;Cambridge, MA;42,531;-71,092
+A_36309;08/10/2002;Roche;Nutley, NJ;40,608;-74,397
+A_36310;10/10/2002;Procter and Gamble;Cincinnati, OH;39,155;-84,529
+A_36311;16/10/2002;Wyeth;Princeton, NJ;40,353;-74,659
+A_36312;17/10/2002;Pharmacia;St. Louis, MO;38,673;-90,52
+A_36313;12/11/2002;Micromass;Beverly, MA;42,644;-70,683
+A_36314;22/11/2002;DowAgrosciences;Indianapolis, IN;39,888;-86,152
+A_36315;24/11/2002;Amgen;Cambridge, MA;42,531;-71,092
+A_36316;06/12/2002;Boehringer Ingelheim;Ridgefield, CT;41,406;-73,475
+A_36317;27/03/2003;Millennium;Cambridge, MA;42,531;-71,092
+A_36318;01/05/2003;Halliburton;Houston, TX;29,543;-95,688
+A_36319;06/05/2003;Wyeth;Pearl River, NY;41,062;-74,002
+A_36320;08/05/2003;Aventis;Cambridge, MA;42,531;-71,092
+A_36321;20/05/2003;Wyeth;Cambridge, MA;42,531;-71,092
+A_36322;10/06/2003;Caprion;Montreal, QC, Canada;45,364;-73,067
+A_36323;11/06/2003;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36324;17/06/2003;Anadarko;Houston, TX;29,543;-95,688
+A_36325;19/06/2003;Amerada Hess;Houston, TX;29,543;-95,688
+A_36326;14/07/2003;Baylor College of Medicine;Houston, TX;29,543;-95,688
+A_36327;17/07/2003;Wyeth;Princeton, NJ;40,353;-74,659
+A_36328;24/07/2003;Wyeth;Pearl River, NY;41,062;-74,002
+A_36329;24/07/2003;Wyeth;Pearl River, NY;41,062;-74,002
+A_36330;25/07/2003;Merck;Rahway, NJ;40,566;-74,395
+A_36331;22/08/2003;University of Washington;Seattle, WA;47,623;-122,352
+A_36332;17/09/2003;Pioneer;Des Moines, IA;41,584;-93,753
+A_36333;19/09/2003;Pioneer;Des Moines, IA;41,584;-93,753
+A_36334;24/09/2003;Novartis;LaJolla, CA;32,873;-117,221
+A_36335;25/09/2003;Novartis;LaJolla, CA;32,873;-117,221
+A_36336;27/10/2003;Wyeth;Collegeville, PA;40,153;-75,428
+A_36337;28/10/2003;Wyeth;Collegeville, PA;40,153;-75,428
+A_36338;07/11/2003;MDSP;Toronto, ON, Canada;43,313;-79,898
+A_36339;10/11/2003;MethylGene;Montreal, QC, Canada;45,364;-73,067
+A_36340;13/11/2003;Locus Pharma;Blue Bell, PA;40,06;-75,283
+A_36341;04/12/2003;AstraZeneca;Wilminton, DE;39,737;-75,529
+A_36342;05/12/2003;Wyeth;Collegeville, PA;40,153;-75,428
+A_36343;12/01/2004;PTC Pharmaceuticals;South Plainsfield, NJ;40,576;-74,502
+A_36344;21/01/2004;Synaptic (Lundbeck);Paramus, NJ;40,936;-74,119
+A_36345;27/01/2004;Merck (Rosetta Inpharmatics);Kirkland, WA;47,622;-122,365
+A_36346;04/02/2004;ICAGen;Research Triangle Park, NC;35,915;-78,786
+A_36347;12/02/2004;CDC;Atlanta, GA;33,771;-84,425
+A_36348;18/02/2004;Wyeth;Cambridge, MA;42,531;-71,092
+A_36349;19/02/2004;Altana;Waltham, MA;42,391;-71,244
+A_36350;24/02/2004;Synaptic (Lundbeck);Paramus, NJ;40,936;-74,119
+A_36351;02/03/2004;FDA_CDER;Rockville, MA;38,905;-77,021
+A_36352;04/03/2004;Moffitt;Tampa, FL;27,962;-82,471
+A_36353;12/03/2004;AZ;Montreal, QC, Canada;45,364;-73,067
+A_36354;16/03/2004;Wyeth;Cambridge, MA;42,531;-71,092
+A_36355;18/03/2004;Millennium;Cambridge, MA;42,531;-71,092
+A_36356;19/03/2004;Biogen;Cambridge, MA;42,531;-71,092
+A_36357;24/03/2004;Novartis;Cambridge, MA;42,531;-71,092
+A_36358;31/03/2004;Aventis;Tucson, AZ;32,192;-110,91
+A_36359;12/04/2004;Genentech;San Francisco, CA;37,657;-122,376
+A_36360;13/04/2004;Amgen;Thousand Oaks, CA;34,196;-118,869
+A_36361;20/04/2004;Purdue Pharma;Cranbury, NJ;40,656;-74,257
+A_36362;24/05/2004;Abbott;Abbott Park, IL;42,106;-87,995
+A_36363;26/05/2004;Novartis;Cambridge, MA;42,531;-71,092
+A_36364;01/06/2004;MSU;Lansing, MI;42,764;-84,406
+A_36365;03/06/2004;Biogen;Cambridge, MA;42,531;-71,092
+A_36366;08/06/2004;Pfizer;Groton, CT;41,323;-72,315
+A_36367;17/06/2004;Biogen;LaJolla, CA;32,873;-117,221
+A_36368;23/06/2004;BMS;Pennington, NJ;40,936;-74,119
+A_36369;24/06/2004;Aventis Pasteur;Toronto, ON, Canada;43,313;-79,898
+A_36370;28/06/2004;Novartis;Cambridge, MA;42,531;-71,092
+A_36371;30/06/2004;Exelixis;San Francisco, CA;37,657;-122,376
+A_36372;01/07/2004;Exelixis;Portland, OR;45,54;-122,66
+A_36373;14/07/2004;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36374;20/07/2004;Boehringer Ingelheim;Ridgefield, CT;41,406;-73,475
+A_36375;05/08/2004;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36376;16/08/2004;Exxon Mobil;Clinton, NJ;40,708;-74,352
+A_36377;17/08/2004;Exxon Mobil;Paulsboro, NJ;39,99;-75,05
+A_36378;15/09/2004;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36379;16/09/2004;Brigham and Women's Hospital;Cambridge, MA;42,531;-71,092
+A_36380;14/10/2004;North Dakota State University;Fargo, ND;46,878;-96,819
+A_36381;22/10/2004;ActivBiotics;Lexington, MA;42,391;-71,244
+A_36382;25/10/2004;Altana;Waltham, MA;42,391;-71,244
+A_36383;04/11/2004;Pfizer;New York, NY;40,675;-73,944
+A_36384;18/11/2004;Pfizer;New York, NY;40,675;-73,944
+A_36385;19/11/2004;Novartis;East Hanover, NJ;40,695;-74,269
+A_36386;22/11/2004;RMF Strategies;Cambridge, MA;42,531;-71,092
+A_36387;29/11/2004;Merck;West Point, PA;40,166;-75,308
+A_36388;01/12/2004;Wash U;St. Louis, MO;38,673;-90,52
+A_36389;09/12/2004;Oxy;Bakersfiled, CA;35,366;-118,996
+A_36390;17/12/2004;Oxy;Houston, TX;29,543;-95,688
+A_36391;25/12/2004;Helicos BioSciences;Cambridge, MA;42,531;-71,092
+A_36392;02/01/2005;Novartis;Cambridge, MA;42,531;-71,092
+A_36393;10/01/2005;Metabolon;Durham, NC;35,915;-78,786
+A_36394;18/01/2005;BP;Houston, TX;29,543;-95,688
+A_36395;26/01/2005;Independence Blue Cross;Philadelphia, PA;40,153;-75,428
+A_36396;03/02/2005;Hynix;Somerville, MA;42,531;-71,092
+A_36397;11/02/2005;Wyeth;Cambridge, MA;42,531;-71,092
+A_36398;19/02/2005;Abbott;Lake Forest, IL;42,106;-87,995
+A_36399;27/02/2005;Novartis;East Hanover, NJ;40,695;-74,269
+A_36400;07/03/2005;Hynix;Somerville, MA;42,531;-71,092
+A_36401;15/03/2005;GSK;Durham, NC;35,915;-78,786
+A_36402;23/03/2005;Pfizer;Durham, NC;35,915;-78,786
+A_36403;31/03/2005;University of MD;Baltimore, MD;39,28779;-76,62551
+A_36404;08/04/2005;In-Q-Tel;Arlington, VA;38,8159;-77,0852
+A_36405;16/04/2005;Givaudan;Cincinnati, OH;39,155;-84,529
+A_36406;24/04/2005;Biogen;Cambridge, MA;42,531;-71,092
+A_36407;02/05/2005;Millennium;Cambridge, MA;42,531;-71,092
+A_36408;10/05/2005;In-Q-Tel;Arlington, VA;38,8159;-77,0852
+A_36409;18/05/2005;Pfizer;Groton, CT;41,323;-72,315
+A_36410;26/05/2005;BMS;Princeton, NJ;40,32148;-74,70279
+A_36411;03/06/2005;Analog Devices;Cambridge, MA;42,531;-71,092
+A_36412;11/06/2005;GE Healthcare Biosciences;Piscataway, NJ;40,55;-74,4614
+A_36413;19/06/2005;Eli Lilly and Company;Research Triangle Park, NC;35,915;-78,786
+A_36414;27/06/2005;Eli Lilly and Company;Indianapolis, IN;39,888;-86,152
+A_36415;05/07/2005;Merck;West Point, PA;40,166;-75,308
+A_36416;13/07/2005;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36417;21/07/2005;Asian Distributors;Somerville, MA;42,531;-71,092
+A_36418;29/07/2005;Shering-Plough;Kenilworth, NJ;40,724;-74,309
+A_36419;06/08/2005;Pharmacia;Kalamazoo, MI;42,226;-85,591
+A_36420;14/08/2005;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36421;22/08/2005;Texas Biotech Corporation;Houston, TX;29,543;-95,688
+A_36422;30/08/2005;Kalypsys;LaJolla, CA;32,873;-117,221
+A_36423;07/09/2005;BP;Naperville, IL;41,763;-88,154
+A_36424;15/09/2005;MIT;Cambridge, MA;42,531;-71,092
+A_36425;23/09/2005;Tribiosys, Inc;Cambridge, MA;42,531;-71,092
+A_36426;01/10/2005;University of Arkansas Medical Center;Little Rock, AR;34,537;-91,585
+A_36427;09/10/2005;GlaxoSmithKline;Research Triangle Park, NC;35,915;-78,786
+A_36428;17/10/2005;Boehringer Ingelheim;Ridgefield, CT;41,406;-73,475
+A_36429;25/10/2005;Pharmacia;Kalamazoo, MI;42,226;-85,591
+A_36430;02/11/2005;Pfizer;Groton, CT;41,323;-72,315
+A_36431;10/11/2005;Amgen;Cambridge, MA;42,531;-71,092
+A_36432;18/11/2005;Pfizer;Groton, CT;41,323;-72,315
+A_36433;26/11/2005;Abgenix;Vancouver, BC, Canada;49,601;-123,873
+A_36434;04/12/2005;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36435;12/12/2005;Microbia;Cambridge, MA;42,531;-71,092
+A_36436;20/12/2005;FDA_Center for Toxicoinformatics;Jefferson, AR;34,537;-91,585
+A_36437;28/12/2005;Pharmacia;St. Louis, MO;38,673;-90,52
+A_36438;05/01/2006;Roche;Nutley, NJ;40,608;-74,397
+A_36439;13/01/2006;Wyeth;Cambridge, MA;42,531;-71,092
+A_36440;21/01/2006;Millennium;Cambridge, MA;42,531;-71,092
+A_36441;29/01/2006;Roche;Nutley, NJ;40,608;-74,397
+A_36442;06/02/2006;Procter and Gamble;Cincinnati, OH;39,155;-84,529
+A_36443;14/02/2006;Wyeth;Princeton, NJ;40,353;-74,659
+A_36444;22/02/2006;Pharmacia;St. Louis, MO;38,673;-90,52
+A_36445;02/03/2006;Micromass;Beverly, MA;42,644;-70,683
+A_36446;10/03/2006;DowAgrosciences;Indianapolis, IN;39,888;-86,152
+A_36447;18/03/2006;Amgen;Cambridge, MA;42,531;-71,092
+A_36448;26/03/2006;Boehringer Ingelheim;Ridgefield, CT;41,406;-73,475
+A_36449;03/04/2006;Millennium;Cambridge, MA;42,531;-71,092
+A_36450;11/04/2006;Halliburton;Houston, TX;29,543;-95,688
+A_36451;19/04/2006;Wyeth;Pearl River, NY;41,062;-74,002
+A_36452;27/04/2006;Aventis;Cambridge, MA;42,531;-71,092
+A_36453;05/05/2006;Wyeth;Cambridge, MA;42,531;-71,092
+A_36454;13/05/2006;Caprion;Montreal, QC, Canada;45,364;-73,067
+A_36455;21/05/2006;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36456;29/05/2006;Anadarko;Houston, TX;29,543;-95,688
+A_36457;06/06/2006;Amerada Hess;Houston, TX;29,543;-95,688
+A_36458;14/06/2006;Baylor College of Medicine;Houston, TX;29,543;-95,688
+A_36459;22/06/2006;Wyeth;Princeton, NJ;40,353;-74,659
+A_36460;30/06/2006;Wyeth;Pearl River, NY;41,062;-74,002
+A_36461;08/07/2006;Wyeth;Pearl River, NY;41,062;-74,002
+A_36462;16/07/2006;Merck;Rahway, NJ;40,566;-74,395
+A_36463;24/07/2006;University of Washington;Seattle, WA;47,623;-122,352
+A_36464;01/08/2006;Pioneer;Des Moines, IA;41,584;-93,753
+A_36465;09/08/2006;Pioneer;Des Moines, IA;41,584;-93,753
+A_36466;17/08/2006;Novartis;LaJolla, CA;32,873;-117,221
+A_36467;25/08/2006;Novartis;LaJolla, CA;32,873;-117,221
+A_36468;02/09/2006;Wyeth;Collegeville, PA;40,153;-75,428
+A_36469;10/09/2006;Wyeth;Collegeville, PA;40,153;-75,428
+A_36470;13/09/2006;MDSP;Toronto, ON, Canada;43,313;-79,898
+A_36471;16/09/2006;MethylGene;Montreal, QC, Canada;45,364;-73,067
+A_36472;19/09/2006;Locus Pharma;Blue Bell, PA;40,06;-75,283
+A_36473;22/09/2006;AstraZeneca;Wilminton, DE;39,737;-75,529
+A_36474;25/09/2006;Wyeth;Collegeville, PA;40,153;-75,428
+A_36475;28/09/2006;PTC Pharmaceuticals;South Plainsfield, NJ;40,576;-74,502
+A_36476;01/10/2006;Synaptic (Lundbeck);Paramus, NJ;40,936;-74,119
+A_36477;04/10/2006;Merck (Rosetta Inpharmatics);Kirkland, WA;47,622;-122,365
+A_36478;07/10/2006;ICAGen;Research Triangle Park, NC;35,915;-78,786
+A_36479;10/10/2006;CDC;Atlanta, GA;33,771;-84,425
+A_36480;13/10/2006;Wyeth;Cambridge, MA;42,531;-71,092
+A_36481;16/10/2006;Altana;Waltham, MA;42,391;-71,244
+A_36482;19/10/2006;Synaptic (Lundbeck);Paramus, NJ;40,936;-74,119
+A_36483;22/10/2006;FDA_CDER;Rockville, MA;38,905;-77,021
+A_36484;25/10/2006;Moffitt;Tampa, FL;27,962;-82,471
+A_36485;28/10/2006;AZ;Montreal, QC, Canada;45,364;-73,067
+A_36486;31/10/2006;Wyeth;Cambridge, MA;42,531;-71,092
+A_36487;03/11/2006;Millennium;Cambridge, MA;42,531;-71,092
+A_36488;06/11/2006;Biogen;Cambridge, MA;42,531;-71,092
+A_36489;09/11/2006;Novartis;Cambridge, MA;42,531;-71,092
+A_36490;12/11/2006;Aventis;Tucson, AZ;32,192;-110,91
+A_36491;15/11/2006;Genentech;San Francisco, CA;37,657;-122,376
+A_36492;18/11/2006;Amgen;Thousand Oaks, CA;34,196;-118,869
+A_36493;21/11/2006;Purdue Pharma;Cranbury, NJ;40,656;-74,257
+A_36494;24/11/2006;Abbott;Abbott Park, IL;42,106;-87,995
+A_36495;27/11/2006;Novartis;Cambridge, MA;42,531;-71,092
+A_36496;30/11/2006;MSU;Lansing, MI;42,764;-84,406
+A_36497;03/12/2006;Biogen;Cambridge, MA;42,531;-71,092
+A_36498;06/12/2006;Pfizer;Groton, CT;41,323;-72,315
+A_36499;18/12/2006;Biogen;LaJolla, CA;32,873;-117,221
+A_36500;30/12/2006;BMS;Pennington, NJ;40,936;-74,119
+A_36501;11/01/2007;Aventis Pasteur;Toronto, ON, Canada;43,313;-79,898
+A_36502;23/01/2007;Novartis;Cambridge, MA;42,531;-71,092
+A_36503;04/02/2007;Exelixis;San Francisco, CA;37,657;-122,376
+A_36504;16/02/2007;Exelixis;Portland, OR;45,54;-122,66
+A_36505;28/02/2007;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36506;12/03/2007;Boehringer Ingelheim;Ridgefield, CT;41,406;-73,475
+A_36507;24/03/2007;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36508;05/04/2007;Exxon Mobil;Clinton, NJ;40,708;-74,352
+A_36509;17/04/2007;Exxon Mobil;Paulsboro, NJ;39,99;-75,05
+A_36510;29/04/2007;Aventis;Bridgewater, NJ;40,708;-74,352
+A_36511;11/05/2007;Brigham and Women's Hospital;Cambridge, MA;42,531;-71,092
+A_36512;13/05/2007;North Dakota State University;Fargo, ND;46,878;-96,819
+A_36513;15/05/2007;ActivBiotics;Lexington, MA;42,391;-71,244
+A_36514;17/05/2007;Altana;Waltham, MA;42,391;-71,244
+A_36515;19/05/2007;Pfizer;New York, NY;40,675;-73,944
+A_36516;21/05/2007;Pfizer;New York, NY;40,675;-73,944
+A_36517;23/05/2007;Novartis;East Hanover, NJ;40,695;-74,269
+A_36518;25/05/2007;RMF Strategies;Cambridge, MA;42,531;-71,092
+A_36519;27/05/2007;Merck;West Point, PA;40,166;-75,308
+A_36520;29/05/2007;Wash U;St. Louis, MO;38,673;-90,52
+A_36521;31/05/2007;Oxy;Bakersfiled, CA;35,366;-118,996
+A_36522;02/06/2007;Oxy;Houston, TX;29,543;-95,688
+A_36523;04/06/2007;Helicos BioSciences;Cambridge, MA;42,531;-71,092
+A_36524;06/06/2007;Novartis;Cambridge, MA;42,531;-71,092
+A_36525;08/06/2007;Metabolon;Durham, NC;35,915;-78,786
+A_36526;10/06/2007;BP;Houston, TX;29,543;-95,688
+A_36527;12/06/2007;Independence Blue Cross;Philadelphia, PA;40,153;-75,428
+A_36528;14/06/2007;Hynix;Somerville, MA;42,531;-71,092
+A_36529;16/06/2007;Wyeth;Cambridge, MA;42,531;-71,092
+A_36530;18/06/2007;Abbott;Lake Forest, IL;42,106;-87,995
